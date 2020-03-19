@@ -1,0 +1,463 @@
+]0;~/CD11Research[01;34m~/CD11Research[00m$ git add .
+]0;~/CD11Research[01;34m~/CD11Research[00m$ git commit C[Kcocalc
+error: pathspec 'cocalc' did not match any file(s) known to git.
+]0;~/CD11Research[01;34m~/CD11Research[00m$ git commit
+hint: Waiting for your editor to close the file... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[H[2J[?2004h[0m[1;48r[H[7m    I    ~/CD11Research/.git/COMMIT_EDITMSG (git-commit)                                                                                                                                                                             Row 9    Col 1   [9B[0m[32m#       new file:   first_data_prepare.ipynb[0m[K
+[32m#       new file:   iframe_figures/figure_0.html[0m[K
+[32m#       new file:   iframe_figures/figure_1.html[0m[K
+[32m#       new file:   iframe_figures/figure_2.html[0m[K
+[32m#       new file:   iframe_figures/figure_3.html[0m[K
+[32m#       new file:   justatest.ipynb[0m[K
+[32m#[0m[K
+[32m# Changes not staged for commit:[0m[K
+[32m#       modified:   .Linux_terminal_1.term-0.term[0m[K
+[32m#[0m[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[H
+[K
+[32m# Please enter the commit message for your changes. Lines starting[0m[K
+[32m# with '#' will be ignored, and an empty message aborts the commit.[0m[K
+[32m#[0m[K
+[32m# On branch cocalc[0m[K
+[32m# Changes to be committed:[0m[K
+[32m#       new file:   .Linux_terminal_1.term-0.term[0m[K
+[32m#       new file:   Linux_terminal_1.term[0m[K[39B[7m Joe's Own Editor 4.6 (utf-8) ** Type [1mCtrl-K Q[0m[7m to exit or [1mCtrl-K H[0m[7m for help **[0m[K[38Aa[1;46H[7mModified)(git-commit)[176C2[9B[C[0m#      new file:   first_data_prepare.ipynb[38B[K[38A[C[1;243H[7m1[9B[0m[32m#       new file:   first_data_prepare.ipynb[H[0m[7m^[[9B[H[2C[[9B[H   [230C8[8B[H^[[8B[H[2C[[8B[H   [230C7[7B[H^[[7B[H[2C[[7B[1;4H3 I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)[7B[H    I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit) [7B[0m        new file:   .Linux_terminal_1.term-0.term[H[7m^[[7B[H[2C[[7B[H   [230C8[8B[H^[[8B[H[2C[[8B[H   [230C7[7B[H^[[7B[H[2C[[7B[H   [230C6[6B[H^[[6B[H[2C[[6B[1;4H3 I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)[6B[H    I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit) [6B[0m Changes to be committed:[K[H[7m^[[6B[H[2C[[6B[H   [230C5[5B[H^[[5B[H[2C[[5B[1;4H3 I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)[5B[H    I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit) [5B[0m On branch cocalc[K[H[7m^[[5B[H[2C[[5B[H   [230C6[6B[H^[[6B[H[2C[[6B[H   [230C7[7B[H^[[7B[H[2C[[7B[H   [230C8[8B[H^[[8B[H[2C[[8B[1;4H3 I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)[8B[H    I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit) [8B[0m        new file:   Linux_terminal_1.term[H[7m^[[8B[H[2C[[8B[H   [230C9[9B[H^[[9B[H[2C[[9B[1;4H3 I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)[9B[H    I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit) [9B[0m        new file:   first_data_prepare.ipynb[H[7m^[[9B[H[2C[[9B[H   [230C10[10B[H^[[10B[H[2C[[10B[1;4H3 I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)[10B[H    I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit) [10B[0m        new file:   iframe_figures/figure_0.html[H[7m^[[10B[H[2C[[10B[H   [231C1[11B[H^[[11B[H[2C[[11B[1;4H3 I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)[11B[H    I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit) [11B[0m        new file:   iframe_figures/figure_1.html[H[7m^[[11B[H[2C[[11B[H   [231C2[12B[H^[[12B[H[2C[[12B[1;4H3 I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)[12B[H    I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit) [12B[0m        new file:   iframe_figures/figure_2.html[H[7m^[[12B[H[2C[[12B[H   [231C3[13B[H^[[13B[H[2C[[13B[1;4H3 I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)[13B[H    I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit) [13B[0m        new file:   iframe_figures/figure_3.html[H[7m^[[13B[H[2C[[13B[H   [231C4[14B[H^[[14B[H[2C[[14B[1;4H3 I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)[14B[H    I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit) [14B[0m        new file:   justatest.ipynb[H[7m^[[14B[H[2C[[14B[H   [231C5[15B[H^[[15B[H[2C[[15B[H   [231C4[14B[H^[[14B[H[2C[[14B[H   [231C3[13B[H^[[13B[H[2C[[13B[H   [231C2[12B[H^[[12B[H[2C[[12B[H   [231C1[11B[H^[[11B[H[2C[[11B[H   [231C0[10B[H^[[10B[H[2C[[10B[H   [230C9 [9B[H^[[9B[H[2C[[9B[H   [230C8[8B[H^[[8B[H[2C[[8B[H   [230C7[7B[H^[[7B[H[2C[[7B[H   [230C6[6B[H^[[6B[H[2C[[6B[H   [230C5[5B[H^[[5B[H[2C[[5B[H   [230C4
+
+
+
+[H^[
+
+
+
+[H[2C[
+
+
+
+[H   [230C3
+
+
+[H^[
+
+
+[H[2C[
+
+
+[H   [230C2
+
+[H^[
+
+[H[2C[
+
+[H   [230C1
+[A^[
+[A[2C[
+[A   
+[A^[
+[A[2C[
+[A   
+[A^[
+[A[2C[
+[A   
+[A^[
+[A[2C[
+[A   [230C2
+
+[H^[
+
+[H[2C[
+
+[H   [230C3
+
+
+[H^[
+
+
+[H[2C[
+
+
+[H   [230C4
+
+
+
+[H^[
+
+
+
+[H[2C[
+
+
+
+[H   [230C5[5B[H^[[5B[H[2C[[5B[H   [230C4
+
+
+
+[H^[
+
+
+
+[H[2C[
+
+
+
+[H   [230C3
+
+
+[H^[
+
+
+[H[2C[
+
+
+[H   [230C2
+
+[H^[
+
+[H[2C[
+
+[H   [230C1
+[0ma[A[241C[7m2
+[C[0m[K[A[241C[7m1
+[0m[KA[A[241C[7m2
+[C[0m[K[A[241C[7m3
+[C[0md[K[A[240C[7m4
+[2C[0md[K[A[239C[7m5
+[3C[0me[K[A[238C[7m6[5G
+[0md[K[A[237C[7m7[6G
+[0m [K[A[236C[7m8[7G
+[0ma[K[A[235C[7m9[8G
+[0ml[K[A[234C[7m10[9G
+[0ml[K[A[234C[7m1
+[235D[0m [K[A[233C[7m2
+[234D[0mf[K[A[232C[7m3
+[233D[0mi[K[A[231C[7m4
+[232D[0ml[K[A[230C[7m5
+[231D[0me[K[A[229C[7m6
+[230D[0ms[K[A[228C[7m7
+[229D[0m [K[A[227C[7m8
+[228D[0mt[K[A[226C[7m9
+[227D[0mo[K[A[224C[7m20
+[226D[0m [K[A[224C[7m1
+[225D[0mt[K[A[223C[7m2
+[224D[0mh[K[A[222C[7m3
+[223D[0me[K[A[221C[7m4
+[222D[0m [K[A[220C[7m5
+[221D[0mg[K[A[219C[7m6
+[220D[0mi[K[A[218C[7m7
+[219D[0mt[K[A[217C[7m8
+[218D[0m [K[A[216C[7m9
+[217D[0mr[K[A[214C[7m30
+[216D[0me[K[A[214C[7m1
+[215D[0mp[K[A[213C[7m2
+[214D[0mo[K[A[212C[7m3
+[213D[0m [K[A[211C[7m4
+[212D[0ms[K[A[210C[7m5
+[211D[0mo[K[A[209C[7m6
+[210D[0m [K[A[208C[7m7
+[209D[0mw[K[A[207C[7m8
+[208D[0mo[K[A[206C[7m9
+[207D[0mr[K[A[204C[7m40
+[206D[0mk[K[A[204C[7m1
+[205D[0m [K[A[203C[7m2
+[204D[0mc[K[A[202C[7m3
+[203D[0ma[K[A[201C[7m4
+[202D[0mn[K[A[200C[7m5
+[201D[0m [K[A[199C[7m6
+[200D[0mb[K[A[198C[7m7
+[199D[0me[K[A[197C[7m8
+[198D[0m [K[A[196C[7m9
+[197D[0md[K[A[194C[7m50
+[196D[0mo[K[A[194C[7m1
+[195D[0mn[K[A[193C[7m2
+[194D[0me[K[A[192C[7m3
+[193D[0m [K[A[191C[7m4
+[192D[0ma[K[A[190C[7m5
+[191D[0mt[K[A[189C[7m6
+[190D[0m [K[A[188C[7m7
+[189D[0md[K[A[187C[7m8
+[188D[0mi[K[A[186C[7m9
+[187D[0mf[K[A[184C[7m60
+[186D[0mf[K[A[184C[7m1
+[185D[0me[K[A[183C[7m2
+[184D[0mr[K[A[182C[7m3
+[183D[0me[K[A[181C[7m4
+[182D[0mn[K[A[180C[7m5
+[181D[0mt[K[A[179C[7m4
+[181D[0m[K[A[180C[7m3
+[182D[0m[K[A[181C[7m2
+[183D[0m[K[A[182C[7m1
+[184D[0m[K[A[183C[7m0
+[185D[0m[K[A[183C[7m59
+[186D[0m[K[A[185C[7m8
+[187D[A[186C7
+[188D[0m[K[A[187C[7m6
+[189D[0m[K[A[188C[7m5
+[190D[A[189C4
+[191D[0m[K[A[190C[7m3
+[192D[0m[K[A[191C[7m2
+[193D[0m[K[A[192C[7m1
+[194D[0m[K[A[193C[7m2
+[194D[0m [K[A[192C[7m1
+[194D[0m[K[A[193C[7m2
+[194D[0me[K[A[192C[7m3
+[193D[0m [K[A[191C[7m4
+[192D[0mu[K[A[190C[7m5
+[191D[0ms[K[A[189C[7m6
+[190D[0mi[K[A[188C[7m7
+[189D[0mn[K[A[187C[7m8
+[188D[0mg[K[A[186C[7m9
+[187D[0m [K[A[184C[7m60
+[186D[0md[K[A[184C[7m1
+[185D[0mi[K[A[183C[7m2
+[184D[0mf[K[A[182C[7m3
+[183D[0mf[K[A[181C[7m4
+[182D[0me[K[A[180C[7m5
+[181D[0mr[K[A[179C[7m6
+[180D[0me[K[A[178C[7m7
+[179D[0mn[K[A[177C[7m8
+[178D[0mt[K[A[176C[7m9
+[177D[0m [K[A[174C[7m70
+[176D[0mp[K[A[174C[7m1
+[175D[0mr[K[A[173C[7m2
+[174D[0mo[K[A[172C[7m3
+[173D[0mg[K[A[171C[7m4
+[172D[0mr[K[A[170C[7m5
+[171D[0ma[K[A[169C[7m6
+[170D[0mm[K[A[168C[7m7
+[169D[0ms[K[A[167C[7m8
+[168D[0m [K[A[166C[7m9
+[167D[0ma[K[A[164C[7m80
+[166D[0mt[K[A[164C[7m1
+[165D[0m [K[A[163C[7m2
+[164D[0mt[K[A[162C[7m3
+[163D[0mh[K[A[161C[7m4
+[162D[0me[K[A[160C[7m5
+[161D[0m [K[A[159C[7m6
+[160D[0ms[K[A[158C[7m7
+[159D[0ma[K[A[157C[7m8
+[158D[0mm[K[A[156C[7m9
+[157D[0me[K[A[154C[7m90
+[156D[0m [K[A[154C[7m1
+[155D[0mt[K[A[153C[7m2
+[154D[0mi[K[A[152C[7m3
+[153D[0mm[K[A[151C[7m4
+[152D[0me[K[A[150C[7m5
+[151D[0m.[K[46BLose changes to this file (y,n,^C)? [K[2;95H[46BLose changes to this file (y,n,^C)? [K[2;95H[A[139C[7m2[9C [3;9H[1;243H15
+
+[230D[1;244H9
+
+[226D[1;243H26
+
+[219D[1;243H34
+
+[211D[45B[0mLose changes to this file (y,n,^C)? [K[3;34H[45BI-find:[3;34H[1;243H[7m55[48;9H[0mi[3;55H[1;234H[7m10[7C23[48;10H[0mf[11;23H[1;235H[7m7[7C15[48;11H[0mi[30A[3C[1;234H[7m2 [7C34[48;12H[0mn[ANot found[K[3;34H[44B[KNot found[K[3;34H[1;234H[7m17[7C15[46B[0m[K
+[11C [30A[2C[1;235H[7m0[7C23[48;11H[0m [11;23H[1;234H[7m2 [7C55[48;10H[0m [3;55H[1;243H[7m34[48;9H[0m [3;34H[45B[K[3;34H[1;244H[7m8
+
+[207D[1;243H43
+
+[202D[1;243H51
+
+[194D[1;244H8
+
+[187D[1;243H67
+
+[178D[1;234H3[8C7 [4;7H[1;243H16[4;16H[1;244H9[4;19H[1;243H27[4;27H[1;243H32[4;32H[1;244H5[4;35H[1;243H41[4;41H[1;244H9[4;49H[1;243H56[4;56H[1;243H60[4;60H[1;244H7[4;67H[1;234H5[8C4 [6;4H[1;243H11[6;11H[1;244H8[6;18H[1;234H6[8C9 [7;9H[1;243H12[7;12H[1;244H5[7;15H[1;243H2[7;25H[1;234H7[8C12[8;12H[1;244H7[8;17H[1;243H38[8;38H[1;243H43[8;43H[1;244H5[8;45H[1;243H50[8;50H[1;234H8[8C12[9;12H[1;244H7[9;17H[1;243H3[9;37H[1;243H42[9;42H[1;234H9[8C1[10;12H[1;244H7[10;17H[1;243H39[10;39H[1;243H45[10;45H[1;234H10[7C12[11;12H[1;244H7[11;17H[1;243H35[11;35H[1;243H44[11;44H[1;244H9[11;49H[1;235H1[7C12[12;12H[1;244H7[12;17H[1;243H35[12;35H[1;243H44[12;44H[1;244H9[12;49H[1;235H2[7C12[13;12H[1;244H7[13;17H[1;243H35[13;35H[1;243H44[13;44H[1;244H9[13;49H[1;235H3[7C12[14;12H[1;244H7[14;17H[1;243H35[14;35H[1;243H44[14;44H[1;244H9[14;49H[1;235H4[7C12[15;12H[1;244H7[15;17H[1;243H30[15;30H[1;244H6[15;36H[1;235H6[7C10[17;10H[1;244H4[17;14H[1;243H21[17;21H[1;244H5[17;25H[1;243H32[17;32H[1;235H7[7C17[18;17H[1;243H38[18;38H[1;243H43[18;43H[1;244H5[18;45H[1;243H50[18;50H[1;235H9[7C1 [19B[1;235H7[7C46[18;46H[1;244H4[18;44H[1;244H5[18;45H[1;243H50[18;50H[H^[[18;50H[H[2C[[18;50H[1;4H2 I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)[18;50H[1;5H0 I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)[18;50H[1;6H0 I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)[18;50H[H    I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)   [18;50H[H^[[240C75[18;75H[H[2C[[18;75H[1;4H2 I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)[18;75H[1;5H0 I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)[18;75H[1;6H1 I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)[18;75H[H    I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)   [18;50H[0m[32m\cite{anomalydetection02}[0m[K[1;243H[7m56[18;56H[H^[[18;56H[H[2C[[18;56H[H   [240C7[18;57H[H^[[18;57H[H[2C[[18;57H[H   [240C8[18;58H[H^[[18;58H[H[2C[[18;58H[H   [240C9[18;59H[H^[[18;59H[H[2C[[18;59H[H   [239C60[18;60H[H^[[18;60H[H[2C[[18;60H[H   [240C1[18;61H[H^[[18;61H[H[2C[[18;61H[H   [240C2[18;62H[H^[[18;62H[H[2C[[18;62H[H   [240C3[18;63H[H^[[18;63H[H[2C[[18;63H[H   [240C4[18;64H[H^[[18;64H[H[2C[[18;64H[H   [240C5[18;65H[H^[[18;65H[H[2C[[18;65H[H   [240C6[18;66H[H^[[18;66H[H[2C[[18;66H[H   [240C7[18;67H[H^[[18;67H[H[2C[[18;67H[H   [240C8[18;68H[H^[[18;68H[H[2C[[18;68H[H   [240C9[18;69H[H^[[18;69H[H[2C[[18;69H[H   [239C70[18;70H[H^[[18;70H[H[2C[[18;70H[H   [240C1[18;71H[H^[[18;71H[H[2C[[18;71H[H   [240C2[18;72H[H^[[18;72H[H[2C[[18;72H[H   [240C3[18;73H[H^[[18;73H[H[2C[[18;73H[H   [240C4[18;74H[H^[[18;74H[H[2C[[18;74H[H   [240C5[18;75H[H^[[18;75H[H[2C[[18;75H[H   [231C8[7C1 [18B[H^[[18B[H[2C[[18B[H   [239C2[19;2H[H^[[18B[H[2C[[18B[H   [239C1[18B[H^[[18B[H[2C[[18B[H   [231C7[7C75[18;75H[1;244H4[18;74H[0m[K[1;244H[7m3[18;73H[0m[K[1;244H[7m2[18;72H[0m[K[1;244H[7m1[18;71H[0m[K[1;244H[7m0[18;70H[0m[K[1;243H[7m69[18;69H[0m[K[1;244H[7m8[18;68H[0m[K[1;244H[7m7[18;67H[0m[K[1;244H[7m6[18;66H[0m[K[1;244H[7m5[18;65H[0m[K[1;244H[7m4[18;64H[0m[K[1;244H[7m3[18;63H[0m[K[1;244H[7m2[18;62H[0m[K[1;244H[7m1[18;61H[0m[K[1;244H[7m0[18;60H[0m[K[1;243H[7m59[18;59H[0m[K[1;244H[7m8[18;58H[0m[K[1;244H[7m7[18;57H[0m[K[1;244H[7m6[18;56H[0m[K[1;244H[7m5[18;55H[0m[K[1;244H[7m4[18;54H[0m[K[1;244H[7m3[18;53H[0m[K[1;244H[7m2[18;52H[0m[K[1;244H[7m1[18;51H[0m[K[1;244H[7m0[18;50H[0m[K[1;243H[7m49[18;49H[H^[[18;49H[H  [18;49H[1;243H50[18;49H[0m[32m:m[0m[K[1;243H[7m49[18;49H[0m[32mm[0m[K[H[7m^[[18;49H[30B[0mCommand: [K[H[7m  [48;10H[0m:[Kx[K[KNo such command[K[18;49H[1;243H[7m50[18;49H[0m[32m:m[0m[K[30B[K[18;50H[1;243H[7m49[18;49H[0m[32mm[0m[K[H[7m^[[18;49H[30B[0mFile /home/user/CD11Research/.git/COMMIT_EDITMSG has been modified.  Save it (y,n,^C)?[H[7m  [7CUnnamed                                                  [168C [7C1 
+[0m[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[5BThere are no messages[K
+[7m    I    ~/CD11Research/.git/COMMIT_EDITMSG (Modified)(git-commit)                                                                                                                                                                   Row 17   Col 49  [17B[0m[32m#       modified:   .Linux_terminal_1.term-0.term[0m[K
+[32m#[0m[K[17AAdded all files to the git repo so work can be done using different programs at the same time.[K
+[32m# Please enter the commit message for your changes. Lines starting[0m[K
+[32m# with '#' will be ignored, and an empty message aborts the commit.[0m[K
+[32m#[0m[K
+ On branch cocalc[K
+ Changes to be committed:[K
+ [7Cnew file:   .Linux_terminal_1.term-0.term[K
+ [7Cnew file:   Linux_terminal_1.term[K
+ [7Cnew file:   first_data_prepare.ipynb[K
+ [7Cnew file:   iframe_figures/figure_0.html[K
+ [7Cnew file:   iframe_figures/figure_1.html[K
+ [7Cnew file:   iframe_figures/figure_2.html[K
+ [7Cnew file:   iframe_figures/figure_3.html[K
+ [7Cnew file:   justatest.ipynb[K
+[32m#[0m[K
+[32m# Changes not staged for commit:[0m[K[48;88HBuild command: [K[24A[K
+[9C[7m* Build Log * (Modified)                                 [168C [7C1 
+[0m[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+
+
+
+All modified files have been saved.[K[21ANew File[K[48;16H[25;34H[7m(ansi)[182C*SHELL*
+[0m[K[21B[K
+[K[22A[L[A[233C[7m2
+[0m/bin/sh: 3: Syntax error: ")" unexpected[K
+[2A[221C[7m       [23B[0mNo messages found[K[21A[L[2A[233C[7m3
+
+[0m[K
+[L[3A[233C[7m4
+
+
+[0m[K
+[4A[K
+[K[22BFile * Build Log * not saved[K[H
+[A[9C[7m~/CD11Research/.git/COMMIT_EDITMSG (git-commit)[178C7[7C49[17B[0m[32m#       modified:   .Linux_terminal_1.term-0.term[0m[K
+[32m#[0m[K[29B[K[H
+Added all files to the git repo so work can be done using different programs at the same time.[K
+[32m# Please enter the commit message for your changes. Lines starting[0m[K
+[32m# with '#' will be ignored, and an empty message aborts the commit.[0m[K
+[32m#[0m[K
+ On branch cocalc[K
+ Changes to be committed:[K
+ [7Cnew file:   .Linux_terminal_1.term-0.term[K
+ [7Cnew file:   Linux_terminal_1.term[K
+ [7Cnew file:   first_data_prepare.ipynb[K
+ [7Cnew file:   iframe_figures/figure_0.html[K
+ [7Cnew file:   iframe_figures/figure_1.html[K
+ [7Cnew file:   iframe_figures/figure_2.html[K
+ [7Cnew file:   iframe_figures/figure_3.html[K
+ [7Cnew file:   justatest.ipynb[K
+[32m#[0m[K
+[32m# Changes not staged for commit:[0m[K
+[16C[30B[?2004l
+File /home/user/CD11Research/.git/COMMIT_EDITMSG not changed so no update needed
+[K[cocalc 8cc0331] Added all files to the git repo so work can be done using different programs at the same time.  On branch cocalc  Changes to be committed: 	new file:   .Linux_terminal_1.term-0.term 	new file:   Linux_terminal_1.term 	new file:   first_data_prepare.ipynb 	new file:   iframe_figures/figure_0.html 	new file:   iframe_figures/figure_1.html 	new file:   iframe_figures/figure_2.html 	new file:   iframe_figures/figure_3.html 	new file:   justatest.ipynb
+ 8 files changed, 1735 insertions(+)
+ create mode 100644 .Linux_terminal_1.term-0.term
+ create mode 100644 Linux_terminal_1.term
+ create mode 100644 first_data_prepare.ipynb
+ create mode 100644 iframe_figures/figure_0.html
+ create mode 100644 iframe_figures/figure_1.html
+ create mode 100644 iframe_figures/figure_2.html
+ create mode 100644 iframe_figures/figure_3.html
+ create mode 100644 justatest.ipynb
+]0;~/CD11Research[01;34m~/CD11Research[00m$ git push origin cocalc
+Username for 'https://github.com': bartsmits992 @gmail      
+Password for 'https://bartsmits99@github.com': 
+Counting objects: 11, done.
+Delta compression using up to 4 threads.
+Compressing objects:  11% (1/9)   Compressing objects:  22% (2/9)   Compressing objects:  33% (3/9)   Compressing objects:  44% (4/9)   Compressing objects:  55% (5/9)   Compressing objects:  66% (6/9)   Compressing objects:  77% (7/9)   Compressing objects:  88% (8/9)   Compressing objects: 100% (9/9)   Compressing objects: 100% (9/9), done.
+Writing objects:   9% (1/11)   Writing objects:  18% (2/11)   Writing objects:  27% (3/11)   Writing objects:  36% (4/11)   Writing objects:  54% (6/11)   Writing objects:  63% (7/11)   Writing objects:  63% (7/11), 2.31 MiB | 4.47 MiB/s   Writing objects:  90% (10/11), 2.31 MiB | 4.47 MiB/s   Writing objects: 100% (11/11), 2.31 MiB | 4.47 MiB/s   Writing objects: 100% (11/11), 2.31 MiB | 2.00 MiB/s, done.
+Total 11 (delta 4), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/4)[Kremote: Resolving deltas:  25% (1/4)[Kremote: Resolving deltas: 100% (4/4)[Kremote: Resolving deltas: 100% (4/4), done.[K
+To https://github.com/Bartsmits99/CD11Research
+   506a1c5..8cc0331  cocalc -> cocalc
+]0;~/CD11Research[01;34m~/CD11Research[00m$ git ag[Kdd.[K [K[K[K[Kcommit co[K[K[K
+On branch cocalc
+Changes not staged for commit:
+	[31mmodified:   .Linux_terminal_1.term-0.term[m
+	[31mmodified:   first_data_prepare.ipynb[m
+	[31mmodified:   justatest.ipynb[m
+
+Untracked files:
+	[31m.first_data_prepare.ipynb.sage-jupyter2[m
+	[31m.justatest.ipynb.sage-jupyter2[m
+	[31mfirst_data_prepare.html[m
+	[31mjustatest.html[m
+
+no changes added to commit
+]0;~/CD11Research[01;34m~/CD11Research[00m$ git[K[K[K[K]0;~/CD11Research[01;34m~/CD11Research[00m$ [K]0;~/CD11Research[01;34m~/CD11Research[00m$ g
